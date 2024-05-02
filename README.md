@@ -10,6 +10,6 @@ N/A
 
 To use the payroll tracker simply click the "Add Employee" button and submit the information based on what the site prompts you to enter.
 
-![Screenshot of deployed application](assets/images/screenshot.png)
+![Screenshot of deployed application](screenshot.png)
 
 [Link to deployed application](https://brianapgil.github.io/module-3-employee-payroll-tracker/)
